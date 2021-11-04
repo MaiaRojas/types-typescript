@@ -9,5 +9,5 @@
   const villains = ['Omega red', 'Dormamu', 'Duende Verde'];
   
   villains.forEach(v => console.log(v.toUpperCase()))
-  //numbers.forEach(v => console.log(v.toUpperCase()))
+  numbers.forEach(v => console.log(v))
 })()
